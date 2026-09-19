@@ -144,6 +144,12 @@ Deux limites connues, assumées pour un travail de TP :
 
 ---
 
+## Licence
+
+Distribué sous licence [MIT](LICENSE) — © 2026 Ayman NABIH.
+
+---
+
 ## Auteur
 
 **Ayman NABIH**
